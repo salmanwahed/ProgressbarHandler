@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Thread Handler Progressbar</string>
+    <string name="text_view_default">Task status</string>
+</resources>
